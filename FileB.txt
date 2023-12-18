@@ -1,5 +1,2 @@
 This is File B
-This is a change
-Let's make a change
-Making another change.
-This for Sqaush Merge> FileB > Main
+This for Sqaush Merge> FileB
